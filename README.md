@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shailendra1394
-- 👀 I’m interested in Programming/Data Science/ML.
-- 🌱 I’m currently learning Python/Data Science.
+- 👀 I’m interested in Data Engineering/Data Science/ML.
+- 🌱 I’m currently working as a Data Engineer.
 - 💞️ I’m looking to collaborate on any related project.
 - 📫 How to reach me --> sp1394@gmail.com.
 
