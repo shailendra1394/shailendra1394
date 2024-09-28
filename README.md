@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shailendra1394
-- 👀 I’m interested in Data Engineering/Data Science/ML.
+- 👀 I’m interested in Data Engineering/Data Science/ML/GenAI.
 - 🌱 I’m currently working as a Data Engineer.
 - 💞️ I’m looking to collaborate on any related project.
 - 📫 How to reach me --> sp1394@gmail.com.
